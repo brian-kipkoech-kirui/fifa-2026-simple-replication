@@ -1,0 +1,6 @@
+{
+  "name": "FIFA 2026 PC Edition",
+  "description": "Authentic FIFA 2026 World Cup football simulation for PC featuring 60FPS match engine, Tournament Mode, Ultimate Team Pack openings, Career Manager, Training Ground, tactical formations, dynamic commentary, and keyboard & gamepad controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
